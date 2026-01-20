@@ -43,7 +43,7 @@ const MainContent: React.FC = () => {
               <img 
                 src={ASSETS.profileUrl} 
                 alt={CANDIDATE.name} 
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-top"
               />
             </div>
             <div className="absolute inset-0 rounded-full border-2 border-uny-gold scale-110 animate-spin-slow opacity-50 border-dashed"></div>
