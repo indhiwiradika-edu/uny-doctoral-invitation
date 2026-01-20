@@ -6,7 +6,9 @@ export const ASSETS = {
   // Use a valid UNY Logo URL (Placeholder provided)
   logoUrl: "/logo-uny.png", 
   // Use the candidate's photo URL (Placeholder provided)
-  profileUrl: "/indhi.jpg", 
+  profileUrl: "/indhi.jpg",
+  // Hymne UNY audio file
+  hymneUrl: "/HYMNE UNY (FULL).mp3",
 };
 
 export const CANDIDATE = {
