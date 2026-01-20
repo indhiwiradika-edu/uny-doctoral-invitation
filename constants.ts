@@ -12,7 +12,7 @@ export const ASSETS = {
 export const CANDIDATE = {
   name: "I Nyoman Indhi Wiradika",
   nim: "20701261001",
-  program: "Program Studi S3 Pendidikan Teknologi dan Kejuruan",
+  program: "Program Studi S3 Penelitian dan Evaluasi Pendidikan",
   dissertation: "Pengembangan Model Asesmen Kompetensi Digital Berbasis Web untuk Calon Pendidik Kejuruan Bidang Keahlian Teknologi Informasi"
 };
 

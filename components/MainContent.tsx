@@ -49,7 +49,7 @@ const MainContent: React.FC = () => {
             <div className="absolute inset-0 rounded-full border-2 border-uny-gold scale-110 animate-spin-slow opacity-50 border-dashed"></div>
           </div>
           
-          <h2 className="text-xl font-bold text-uny-blue uppercase tracking-wider mb-2">Calon Doktor</h2>
+          <h2 className="text-xl font-bold text-uny-blue uppercase tracking-wider mb-2">Promovendus</h2>
           <h1 className="font-serif text-3xl md:text-4xl font-bold text-slate-800 mb-1">{CANDIDATE.name}</h1>
           <p className="text-slate-500 font-medium">NIM. {CANDIDATE.nim}</p>
           <p className="text-sm text-slate-400 mt-2 max-w-md">{CANDIDATE.program}</p>
