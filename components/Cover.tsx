@@ -50,7 +50,7 @@ const Cover: React.FC<CoverProps> = ({ onOpen }) => {
             Undangan Digital
           </h3>
           <h1 className="font-serif text-3xl md:text-4xl text-slate-800 font-bold leading-tight mb-2">
-            Ujian Terbuka
+            Ujian Tertutup dan Sidang
             <br />
             Promosi Doktor
           </h1>
