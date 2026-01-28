@@ -15,7 +15,7 @@ export const CANDIDATE = {
   name: "Nur Anisyah Rachmaningtyas",
   nim: "20701261007",
   program: "Program Studi S3 Penelitian dan Evaluasi Pendidikan",
-  dissertation: "Pengembangan Model Asesmen Kompetensi Digital Berbasis Web untuk Calon Pendidik Kejuruan Bidang Keahlian Teknologi Informasi"
+  dissertation: "Model Penilaian Kesiapan Karier pada Mahasiswa Keguruan"
 };
 
 export const EVENT = {
@@ -26,7 +26,7 @@ export const EVENT = {
 };
 
 export const LINKS = {
-  product: "https://pelita-framework.cloud/",
+  product: "https://drive.google.com/drive/folders/1iCWaSaiYRO9gERUg34fuXllvyLTrYd7f?usp=sharing",
   stream: "https://www.youtube.com/@ppsunyofficial7079/streams"
 };
 // --- CONFIGURATION END ---
